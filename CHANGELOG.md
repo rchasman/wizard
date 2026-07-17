@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.46.0](https://github.com/PostHog/wizard/compare/v2.45.0...v2.46.0) (2026-07-17)
+
+
+### Features
+
+* **mcp:** OpenCode as a target for wizard installation ([#913](https://github.com/PostHog/wizard/issues/913)) ([27ec6ac](https://github.com/PostHog/wizard/commit/27ec6ac88a3d0eb728196c271bdba379e6263637))
+* support iOS source-map uploads ([#871](https://github.com/PostHog/wizard/issues/871)) ([4430ed2](https://github.com/PostHog/wizard/commit/4430ed2920c8157c5714ad5112b4d6358313671d))
+
 ## [2.45.0](https://github.com/PostHog/wizard/compare/v2.44.0...v2.45.0) (2026-07-16)
 
 
